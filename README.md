@@ -54,7 +54,7 @@ This project implements the Banker's Algorithm for deadlock avoidance in operati
    cp ../maximum.txt .
    ```
 
-2. Run the program with initial resources:
+2. Run the program with initial resources: (please make sure that you are in the build directory)
    ```bash
    ./bankers_algorithm 10 5 7 8
    ```
