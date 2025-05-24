@@ -4,7 +4,7 @@
 #include <vector>
 #include <string>
 
-// Constants for the Banker's Algorithm
+// Constants for the Banker's Algorithm 
 const int NUMBER_OF_CUSTOMERS = 5;
 const int NUMBER_OF_RESOURCES = 4;
 
