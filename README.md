@@ -1,4 +1,4 @@
-# Banker's Algorithm Implementation
+# Banker's Algorithm Implementation (Uche Joseph & Uche Hadassah)
 
 This project implements the Banker's Algorithm for deadlock avoidance in operating systems. It manages resource allocation to ensure the system remains in a safe state.
 
